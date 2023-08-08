@@ -21,4 +21,8 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+# Run
+
+* bundle install
+* rails db:migrate
+* rails s
